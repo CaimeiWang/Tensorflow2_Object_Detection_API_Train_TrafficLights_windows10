@@ -1,0 +1,21 @@
+item {
+  id: 1
+  name: 'Traffic_Light_go'
+}
+
+item {
+  id: 2
+  name: 'Traffic_Light_stop'
+}
+
+item {
+  id: 3
+  name: 'Traffic_Light_ambiguous'
+}
+
+item {
+  id: 4
+  name: 'Traffic_Light_warning'
+}
+
+
